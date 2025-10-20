@@ -7,7 +7,8 @@
 
 import SwiftUI
 import SwiftData
-import FirebaseCore
+// TODO: Add Firebase import statement
+
 
 // TODO: Add @main attribute to mark this as the app's entry point
 // iOS looks for @main to know where to start the app
